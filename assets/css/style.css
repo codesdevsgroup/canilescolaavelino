@@ -17,7 +17,7 @@ body {
 #home {
     background-image: url(../image/home_img.svg);
     background-repeat: no-repeat;
-    background-size: cover; 
+    background-size: cover;
 }
 
 #home, .container, .row{
